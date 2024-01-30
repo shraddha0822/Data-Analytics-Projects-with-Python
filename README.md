@@ -1,1 +1,1 @@
-# Python-Projects
+This repository contains a collection of projects completed as part of the "Data Analytics with Python Programming" course offered by the esteemed Indian Institute of Technology, Guwahati, in collaboration with RBPL. These projects cover a range of topics and real-world scenarios, showcasing practical applications of data analytics using Python.
